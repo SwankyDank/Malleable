@@ -1,7 +1,40 @@
 fileFormatVersion: 2
 guid: 2f6a7ed16964e294da2cc1081b10f401
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4151223434315959268
+    second: Movesheettrans_0
+  - first:
+      213: 6364318358011992128
+    second: Movesheettrans_1
+  - first:
+      213: -1258350189320694447
+    second: Movesheettrans_2
+  - first:
+      213: 5662748682808182089
+    second: Movesheettrans_3
+  - first:
+      213: 7028968321884161684
+    second: Movesheettrans_4
+  - first:
+      213: -6876201735885730367
+    second: Movesheettrans_5
+  - first:
+      213: 6810417534680420862
+    second: Movesheettrans_6
+  - first:
+      213: -3853644405925143131
+    second: Movesheettrans_7
+  - first:
+      213: -2094336196077537224
+    second: Movesheettrans_8
+  - first:
+      213: 427273001672109101
+    second: Movesheettrans_9
+  - first:
+      213: -5704311760047779159
+    second: Movesheettrans_10
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +65,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -41,12 +74,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 204
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -66,7 +99,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -75,7 +120,238 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Movesheettrans_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 1496
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb0ea928bb1c9930800000000000000
+      internalID: 4151223434315959268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movesheettrans_1
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1440
+        width: 1496
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0485dc6b3d9925850800000000000000
+      internalID: 6364318358011992128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movesheettrans_2
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 1440
+        width: 1496
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1559e7a7b21798ee0800000000000000
+      internalID: -1258350189320694447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movesheettrans_3
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 1440
+        width: 1496
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945c71bacef169e40800000000000000
+      internalID: 5662748682808182089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movesheettrans_4
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 1440
+        width: 1496
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496016b9279eb8160800000000000000
+      internalID: 7028968321884161684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movesheettrans_5
+      rect:
+        serializedVersion: 2
+        x: 7480
+        y: 1440
+        width: 1496
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd4b90f3f2d290a0800000000000000
+      internalID: -6876201735885730367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movesheettrans_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1496
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1d7b62aa6738e50800000000000000
+      internalID: 6810417534680420862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movesheettrans_7
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 0
+        width: 1496
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad192e84da158ac0800000000000000
+      internalID: -3853644405925143131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movesheettrans_8
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 0
+        width: 1496
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8383e80735c6fe2e0800000000000000
+      internalID: -2094336196077537224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movesheettrans_9
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 0
+        width: 1496
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ce7cef78afde500800000000000000
+      internalID: 427273001672109101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movesheettrans_10
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 0
+        width: 1496
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2d44e4da636d0b0800000000000000
+      internalID: -5704311760047779159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
